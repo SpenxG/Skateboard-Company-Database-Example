@@ -1,4 +1,5 @@
-# Skateboard-Company-Database-ExampleFinal project of creating a database, Skateboard part company that allows you to build custom boards.
+# Skateboard-Company-Database-Example
+Final project of creating a database, Skateboard part company that allows you to build custom boards.
 
 
 Powerpoint Presentation describing and showcasing the product
